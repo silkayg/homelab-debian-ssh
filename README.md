@@ -1,4 +1,4 @@
-# Debian-VM mit gehärtetem SSH
+# Homelab: Debian-VM mit gehärtetem SSH
 
 ## Ziel
 Eine Debian-12-VM in VirtualBox, vom Windows-Host aus per SSH-Key
