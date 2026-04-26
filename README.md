@@ -7,7 +7,7 @@ Brute-Force-Schutz via fail2ban.
 
 ## Setup
 - **Host:** Windows 11
-- **Virtualisierung:** VirtualBox 7.x, NAT-Adapter mit Port-Forwarding
+- **Virtualisierung:** VirtualBox 7.2, NAT-Adapter mit Port-Forwarding
   (Host:2222 → Guest:22)
 - **Guest:** Debian 12 (Bookworm), netinst, ohne Desktop-Umgebung
 - **VM-Ressourcen:** 3 GB RAM, 2 vCPU, 20 GB HDD
